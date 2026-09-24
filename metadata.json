@@ -1,0 +1,6 @@
+{
+  "name": "Meu Treino - Ficha de Musculação 6 Semanas",
+  "description": "Ficha de treino digital responsiva e mobile-first de 6 semanas focada em força, consistência e preservação de massa muscular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
